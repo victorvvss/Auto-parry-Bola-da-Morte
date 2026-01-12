@@ -1,4 +1,4 @@
-# collectEventRewards
+# Auto Parry
 
 Script Bola da Morte
 
